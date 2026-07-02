@@ -20,7 +20,7 @@ Built as a module project for **CS6461 – Computer Vision Systems**, University
 | Flashlight (dark room) | ~35 lux (beam) | 58–63% | Reliable within beam; one person misidentified as "unknown" on swap |
 | Outdoor evening | ~9 lux | Lower, variable | Only 2–3 of 4 people consistently identified; ID card misclassified as cell phone |
 
-Full methodology, confidence-score graphs, and discussion of a detected bias against darker complexions in low light (and the retraining done to address it) are in the [project report](./CS6461_Project_Report.pdf).
+Full methodology, confidence-score graphs, and discussion of a detected bias against darker complexions in low light (and the retraining done to address it) are in the project report.
 
 ## Repo Contents
 
